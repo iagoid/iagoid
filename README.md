@@ -6,7 +6,7 @@
 
 <br><br>
 
-## Tecnologias 
+## Tecnologias 💻
 <div> 
     <img align="center" height=50 width=50px alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height=50 width=50px alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -18,7 +18,7 @@
 </div>
 <br><br>
 
-## Contato 
+## Contato 📞
 <a href="mailto:iagoid01@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ivanir-dalmolin-4466a7195/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagodalmolin/)
