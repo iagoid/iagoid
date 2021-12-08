@@ -1,4 +1,4 @@
-### Olá meu nome é Iago Ivanir Dalmolin, sou aluno do IFRS Campus Ibirubá no curso de Ciência da Computação. Completei meu curso como Técnico em Informática no ano de 2019 no mesmo Campus Ibirubá e me apaixonei por programação desde então.
+### Olá meu nome é Iago Ivanir Dalmolin, completei meu curso como Técnico em Informática no ano de 2019 no IFRS Campus Ibirubá no curso de Ciência da Computação e me apaixonei por programação desde então. Atualemnte sou aluno do IFRS Campus Ibirubá no curso de Ciência da Computação. 
 
 ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=iagoid&show_icons=true&theme=radical)
 
